@@ -4,7 +4,7 @@ This is a serverless application that receives a webhook via POST or GET HTTP me
 
 The architecture for this app looks like the following diagram:
 
-![](./assets/eventmonitor.png)
+![](./mailgunevents.png)
 
 
 This app contains the following components:
